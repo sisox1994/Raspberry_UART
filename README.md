@@ -1,4 +1,4 @@
-# Raspberry UART 
+# Raspberry Pi 4B UART 
 
 
 
